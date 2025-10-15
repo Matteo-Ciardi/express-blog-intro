@@ -1,0 +1,22 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "Esercizio Boolean | Creare un server per un blog personale",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "watch": "node --watch app.js"
+  },
+  "keywords": [
+    "blog",
+    "Boolean",
+    "server",
+    "API"
+  ],
+  "author": "matteo-ciardi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
